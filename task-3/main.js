@@ -1,1 +1,1 @@
-console.log("1\n,2\n,3\n,4\n,5\n");
+console.log("1\n2\n3\n4\n5\n");
